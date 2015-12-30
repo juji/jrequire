@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_shift",
+				"array_unshift()	standard Function"
+			],
+			[
+				"uc",
+				"ucfirst"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"array_key",
+				"array_key_exists()	standard Function"
+			],
+			[
+				"call_user_func",
+				"call_user_func()	standard Function"
+			],
+			[
+				"call_user",
+				"call_user_func()	standard Function"
+			],
+			[
+				"mysql_insert",
+				"mysql_insert_id()	mysql Function"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
+				"session_",
+				"session_unset"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"str_getcs",
+				"str_getcsv"
+			],
+			[
+				"file_esi",
+				"file_exists"
+			],
+			[
+				"http_build_",
+				"http_build_query"
+			],
+			[
+				"http_bui",
+				"http_build_query"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"call_user_fun",
+				"call_user_func_array"
+			],
+			[
+				"writeFile",
+				"fs.writeFileSync"
+			],
+			[
+				"file",
+				"filelist"
+			],
+			[
+				"cooki",
+				"cookies"
+			],
+			[
+				"current",
+				"currentHeader"
+			],
+			[
+				"http",
+				"httpRequest"
+			],
+			[
+				"pa",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter setting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linte",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint setting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"view",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"fol",
+				"Project: Add Folder"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: |date"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"snipp",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"pacaka",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"view ",
+				"View: Toggle Tabs"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file",
+				"File: Save All"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/files/work/repo/jrequire"
+	],
+	"file_history":
+	[
+		"/media/files/work/projects/bridestory/server/app/employee/deploy",
+		"/media/files/work/projects/bridestory/server/services/socket/app/vendor/modules/query.js",
+		"/media/files/work/projects/bridestory/server/services/socket/app/vendor/modules/validator.js",
+		"/media/files/work/projects/bridestory/server/services/socket/app/vendor/modules/db.js",
+		"/media/files/work/projects/bridestory/server/services/socket/nodesocket.conf",
+		"/media/files/work/projects/bridestory/server/services/socket/settings.json",
+		"/media/files/work/projects/bridestory/server/services/socket/.gitignore",
+		"/media/files/work/projects/bridestory/server/script/kpi/result/data--2015-01-01--2015-01-31.json",
+		"/media/files/work/projects/bridestory/server/services/socket/app/vendor/index.js",
+		"/media/files/work/projects/bridestory/server/script/kpi/result/data--2014-12-01--2014-12-31.json",
+		"/media/files/work/projects/bridestory/server/script/kpi/result/data--2015-04-01--2015-04-30.json",
+		"/media/files/work/projects/bridestory/server/services/socket/bswebsocket",
+		"/media/files/work/repo/jhttp/package.json",
+		"/media/files/work/assets/templating/do.photoshop",
+		"/media/files/work/projects/bridestory/socket/nodesocket.log",
+		"/media/files/work/projects/bridestory/socket/node_modules/email-verify/index.js",
+		"/media/files/work/projects/bridestory/socket/runsocket",
+		"/media/files/work/projects/bridestory/socket/.gitignore",
+		"/media/files/work/projects/bridestory/socket/email-8564912256373.csv",
+		"/media/files/work/projects/bridestory/socket/email-7677848316928.csv",
+		"/media/files/work/projects/bridestory/socket/email-1672527479573.csv",
+		"/media/files/work/projects/bridestory/crawl2/node_modules/modules/processor/package.json",
+		"/media/files/work/projects/bridestory/crawl2/modules/processor/db.json",
+		"/media/files/work/projects/bridestory/socket/index.js",
+		"/media/files/work/projects/bridestory/socket/app/vendor/modules/db.js",
+		"/media/files/work/projects/bridestory/socket/app/vendor/modules/db.json",
+		"/media/files/work/projects/socket/app/vendor/index.js",
+		"/media/files/work/projects/socket/settings.json",
+		"/media/files/work/projects/socket/modules/db.js",
+		"/media/files/work/www/works/vendor/socket/settings.compiled.json",
+		"/media/files/work/www/works/vendor/compiled/api/.htaccess",
+		"/media/files/work/www/works/vendor/compiled/socket/settings.json",
+		"/media/files/work/projects/bridestory/scripts/remote",
+		"/media/files/work/www/works/vendor/compiled/classes/Vars.compiled.php",
+		"/media/files/work/www/works/vendor/socket/modules/db.json",
+		"/media/files/work/www/works/vendor/socket/modules/db.js",
+		"/media/files/work/www/works/vendor/socket/modules/data.js",
+		"/media/files/work/www/works/vendor/socket/index.js",
+		"/media/files/work/www/works/vendor/api/_settings.php",
+		"/media/files/work/www/works/vendor/component/app/panel/fields.php",
+		"/media/files/work/www/works/vendor/component/app/main.php",
+		"/media/files/work/www/works/vendor/component/app/panel/condition.php",
+		"/media/files/work/www/works/vendor/component/app/panel/operation.php",
+		"/media/files/work/www/works/vendor/asset/css/index.css",
+		"/media/files/work/www/works/vendor/component/app/header-compiled.php",
+		"/media/files/work/www/works/vendor/component/app/header.php",
+		"/media/files/work/www/works/vendor/test/test.js",
+		"/media/files/work/www/works/vendor/classes/DB.php",
+		"/media/files/work/www/works/vendor/classes/Query.php",
+		"/media/files/work/www/works/vendor/api/_module/query.php",
+		"/media/files/work/www/works/vendor/buildsettings/files.json",
+		"/media/files/work/projects/bridestory/remote",
+		"/media/files/work/projects/bridestory/DOC/bsweb/crawl/list",
+		"/media/files/work/www/works/vendor/asset/js/App.js",
+		"/home/juji/country.json",
+		"/media/files/work/projects/bridestory/bs/category.json",
+		"/media/files/work/repo/simple-cookie/README.md",
+		"/media/files/work/www/works/vendor/asset/js/App.query.js",
+		"/media/files/work/www/works/vendor/asset/js/jquery.library.js",
+		"/media/files/work/www/works/vendor/asset/js/App.ui.js",
+		"/media/files/work/www/works/vendor/api/_classes.php",
+		"/media/files/work/www/works/vendor/asset/js/App.ui.panel.js",
+		"/media/files/work/www/works/vendor/asset/js/App.event.js",
+		"/media/files/work/www/works/vendor/asset/js/App.init.js",
+		"/media/files/work/www/works/vendor/asset/js/App.data.js",
+		"/media/files/work/www/works/vendor/component/app/panel/reset.php",
+		"/media/files/work/www/works/vendor/api/.htaccess",
+		"/media/files/work/www/works/vendor/.htaccess",
+		"/media/files/work/www/works/vendor/asset/js/jquery.dndgrid.min.js",
+		"/home/juji/Videos/Lucy (2014) 720p BluRay x264 YIFY/YIFY-Codec-Pack-v1_0.txt",
+		"/media/files/work/www/works/vendor/asset/css/App.ui.panel.js",
+		"/media/files/work/www/works/vendor/README.md",
+		"/media/files/work/www/works/vendor/Gruntfile.js",
+		"/media/files/work/www/works/vendor/asset/js/App.storage.js",
+		"/media/files/work/www/works/vendor/asset/js/App.local.js",
+		"/media/files/work/www/works/vendor/component/app/sidebar.php",
+		"/media/files/work/www/works/vendor/component/app/topbar.php",
+		"/media/files/work/www/works/vendor/views/app.php",
+		"/media/files/work/www/works/vendor/classes/Vars.php",
+		"/media/files/work/www/works/vendor/package.json",
+		"/media/files/work/www/works/vendor/api/_module/search.php",
+		"/media/files/work/www/works/vendor/asset/css/library.css",
+		"/media/files/work/www/works/vendor/component/app/searchpanel.php",
+		"/media/files/work/www/works/vendor/component/app/bottombar.php",
+		"/media/files/work/www/works/vendor/asset/js/jquery.datepicker.js",
+		"/media/files/work/www/works/vendor/api/_module/vendor.php",
+		"/media/files/work/www/works/vendor/api/_module/command.php",
+		"/media/files/work/www/works/vendor/component/app/loader.php",
+		"/media/files/work/www/works/vendor/index.php",
+		"/media/files/work/www/works/vendor/views/login.php",
+		"/media/files/work/www/works/vendor/_includes.php",
+		"/media/files/work/www/works/vendor/_init.php",
+		"/media/files/work/www/works/vendor/component/app/panel/feilds",
+		"/media/files/work/www/works/cmsbaru/admin/.htaccess",
+		"/media/files/work/www/works/cmsbaru/.htaccess",
+		"/home/juji/Videos/[J.X&MGRT]Saint.Seiya.Legend.of.Sanctuary.2014/Readme_English_seya.txt",
+		"/media/files/system/scripts/trusty-install/initial",
+		"/media/files/system/scripts/trusty-install/installs",
+		"/home/juji/Documents/httpd.conf",
+		"/media/files/work/www/works/vendor/api/_module/general.php",
+		"/media/files/work/www/works/vendor/api/_module/gallery.php",
+		"/media/files/work/www/works/vendor/api/_module/emails.php",
+		"/media/files/work/www/works/vendor/api/_module/data.php",
+		"/media/files/work/www/works/vendor/api/_module/contact.php",
+		"/media/files/work/www/works/vendor/api/_init.php",
+		"/media/files/work/www/works/vendor/api/_includes.php",
+		"/media/files/work/www/works/dvn/testtime.php",
+		"/media/files/work/www/works/dvn/app/data/stat/access.stat",
+		"/media/files/work/www/works/dvn/app/classes/Logs.php",
+		"/media/files/work/www/works/dvn/losepass.php",
+		"/media/files/work/www/works/dvn/app/api/adm/lostpass.php",
+		"/media/files/work/www/works/dvn/app/modul/settings/plugin/lostpass-receiver.php",
+		"/media/files/work/www/works/dvn/m.dvn/modul/share/index.php",
+		"/media/files/work/www/works/dvn/app/modul/settings/plugin/notifications.php",
+		"/media/files/work/www/works/dvn/app/modul/settings/home.php",
+		"/media/files/work/www/works/dvn/login.php",
+		"/media/files/work/www/works/dvn/app/global/function.php",
+		"/media/files/work/www/works/dvn/usechrome.php",
+		"/media/juji/Ubuntu 14.04.1 LTS amd64/md5sum.txt",
+		"/media/juji/Ubuntu 14.04.1 LTS amd64/README.diskdefines",
+		"/media/files/system/scripts/backgroundxml",
+		"/media/files/work/www/works/dvn/getemail.php",
+		"/media/files/work/www/works/dvn/app/api/item/comment.php",
+		"/media/files/work/www/works/dvnBACKUP/BACKUP/public_html/app/api/item/comment.php",
+		"/media/files/work/www/works/dvn/m.dvn/index.php",
+		"/media/files/work/www/works/dvn/checkemail.php",
+		"/media/files/work/www/works/dvn/php_errors.log",
+		"/media/files/work/www/works/dvn/api.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"queries",
+			".token",
+			"getUserData",
+			"log",
+			"console",
+			"conso",
+			"length",
+			"nothingness",
+			"throw",
+			"toValue",
+			"haserror",
+			";\n",
+			"haserror",
+			"				\n",
+			"on('end'",
+			"log.error",
+			");\n",
+			"log.error",
+			"..']);\n",
+			"..']);",
+			"log.error",
+			"stack",
+			"log.error",
+			");\n",
+			"log.error",
+			"getDBname",
+			"normalized",
+			"clean",
+			"<link href=",
+			"autocomplete",
+			"text",
+			"string",
+			"],",
+			"App.data.fields",
+			"App.data",
+			"{};\n",
+			"entity",
+			"),",
+			"$value[2]",
+			"field",
+			"$value[0]",
+			"				\n",
+			"app.ui",
+			"Site",
+			"data-remove",
+			"data-append-once",
+			"data-field",
+			"data-prop",
+			"class=\"\"",
+			"+' '+",
+			"query",
+			"where",
+			"input-text-single",
+			" ));",
+			");\n",
+			"-5-11",
+			"();\n",
+			"console\\.log.*;",
+			"field=[this]",
+			"]\" class=",
+			"field:",
+			"data-append=",
+			"blue condition-field-name",
+			"class=\"grid\" class=\"field-condition\"",
+			"groupcell",
+			"class=",
+			"data-append=",
+			"data-append",
+			"data-field=",
+			"');\n",
+			"',",
+			" );",
+			"field:",
+			"field",
+			"(html)",
+			"p-",
+			"field:",
+			"field",
+			"data-appended=\"",
+			"data-append=",
+			"data-field=",
+			"name:",
+			"data-appended",
+			"data-append",
+			"data-field",
+			"title",
+			"\" :",
+			":",
+			"case",
+			":",
+			"val.constructor.toString()",
+			"store.prefix+key",
+			"return",
+			"constructor",
+			"fa-minus",
+			" ]</",
+			"bottom ",
+			"5",
+			"transition",
+			"top",
+			"console.log",
+			"(),\n",
+			"])+(),'",
+			"ftr",
+			"token",
+			"[i]",
+			"i",
+			"[token]",
+			"operator",
+			"value",
+			"header",
+			"copy",
+			"<link href=\"<?php print Utils::getSite(true); ?>",
+			"\"></script>",
+			"<script src=\"<?php print Utils::getSite(true); ?>",
+			"i-1",
+			" \n",
+			"',",
+			"', '",
+			");\n",
+			"purple",
+			"blue",
+			"green",
+			"note",
+			"fa-minus",
+			" blue condition-field",
+			"Name",
+			"box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"/\\*\\1\\*/",
+			"/\\*\\0\\*/",
+			"field:[this]",
+			"blue",
+			"class=\"grid field-condition\"",
+			"//console.log",
+			"Chat.data.currentRoom",
+			"Chat.data.rooms",
+			"Comet",
+			"Event",
+			"active-room",
+			"diff",
+			"$err",
+			"Chat.html",
+			"Chat.sys.rooms",
+			"#userpane_day_select",
+			".self::arrsql(",
+			"$ERROR[] = $uid.',",
+			"Invoice",
+			"config",
+			"Config",
+			"Tax",
+			"tax",
+			"payment",
+			"Payment",
+			"Estimate",
+			"estimate",
+			"invoice",
+			"Invoice",
+			"apiClassName",
+			"apiEndpoint",
+			">To",
+			"user",
+			"User",
+			"Tax",
+			"tax",
+			"payment",
+			"Payment",
+			"Invoice",
+			"invoice",
+			"Estimate",
+			"estimate",
+			"\"",
+			"\\$",
+			"xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:og=\"http://ogp.me/ns#\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Materialize/Langs/npm JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jrequire.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"crowd.",
+				"app/classes/api/Crowd.php"
+			],
+			[
+				"chat.js",
+				"app/modul/chat/asset/js/chat.js"
+			],
+			[
+				"comet",
+				"static/js/dvn.comet.js"
+			],
+			[
+				"dvn.com",
+				"static/js/dvn.comet.js"
+			],
+			[
+				"comet.",
+				"comet.php"
+			],
+			[
+				"dvn.come",
+				"static/js/dvn.comet.js"
+			],
+			[
+				"come",
+				"comet.php"
+			],
+			[
+				"noti",
+				"app/classes/Notification.php"
+			],
+			[
+				"chat",
+				"app/classes/api/Chat.php"
+			],
+			[
+				"room",
+				"app/api/chat/room.php"
+			],
+			[
+				"init.",
+				"app/api/chat/init.php"
+			],
+			[
+				"",
+				"comet.php"
+			],
+			[
+				"no",
+				"app/classes/Notification.php"
+			],
+			[
+				"com",
+				"comet.php"
+			],
+			[
+				"db",
+				"app/classes/global/DB.php"
+			],
+			[
+				"mlo",
+				"mlog"
+			],
+			[
+				"db.",
+				"app/classes/global/DB.php"
+			],
+			[
+				"hom",
+				"app/modul/chat/home.php"
+			],
+			[
+				"delete",
+				"app/api/notification/delete.php"
+			],
+			[
+				"notifi",
+				"app/classes/Notification.php"
+			],
+			[
+				"/chat/home.ph",
+				"app/modul/chat/home.php"
+			],
+			[
+				"head",
+				"site/header.php"
+			],
+			[
+				"home",
+				"app/modul/chat/home.php"
+			],
+			[
+				"dvn.eve",
+				"static/js/dvn.event.js"
+			],
+			[
+				"header",
+				"site/header.php"
+			],
+			[
+				"dvn.modu",
+				"static/js/dvn.modul.js"
+			],
+			[
+				"dvn.init",
+				"static/js/dvn.init.js"
+			],
+			[
+				"comet.js",
+				"static/js/dvn.comet.js"
+			],
+			[
+				"comte",
+				"comet.php"
+			],
+			[
+				"utils.php",
+				"app/classes/global/Utils.php"
+			],
+			[
+				"err",
+				"php_errors.log"
+			],
+			[
+				"chat.",
+				"app/classes/api/Chat.php"
+			],
+			[
+				"utils.",
+				"app/classes/global/Utils.php"
+			],
+			[
+				"chat.css",
+				"app/modul/chat/asset/css/chat.css"
+			],
+			[
+				"dvn.js",
+				"static/js/dvn.js"
+			],
+			[
+				"utils",
+				"app/classes/global/Utils.php"
+			],
+			[
+				"notif",
+				"app/data/comet/notif"
+			],
+			[
+				"not",
+				"app/classes/Notification.php"
+			],
+			[
+				"user.php",
+				"app/classes/api/User.php"
+			],
+			[
+				"init.ph",
+				"app/api/chat/init.php"
+			],
+			[
+				"crowd.php",
+				"app/classes/api/Crowd.php"
+			],
+			[
+				"testtemplate",
+				"dev/app/pages/test/testTemplate.html"
+			],
+			[
+				"testcr/",
+				"dev/app/pages/test/test-crud/testCrudTemplate.html"
+			],
+			[
+				"to",
+				"invoice.TODO"
+			],
+			[
+				"main",
+				"asset/js/main.js"
+			],
+			[
+				"app",
+				"app/test/testFactory.js"
+			],
+			[
+				"app/",
+				"app/test/testFactory.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
