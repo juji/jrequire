@@ -4,7 +4,7 @@ Reload (and other) functionality to complement require module.
 Reload
 ---
 ```js
-var jrequire = require('./index.js');
+var jrequire = require('jrequire');
 var fs = require('fs');
 
 // write a module
