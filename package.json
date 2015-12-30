@@ -1,6 +1,6 @@
 {
   "name": "jrequire",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Reload (and other) functionality to complement require module.",
   "main": "index.js",
   "scripts": {
