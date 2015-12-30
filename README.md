@@ -4,14 +4,14 @@ Reload (and other) functionality to complement require module.
 Reload
 ---
 ```js
-var require2 = require('./index.js');
+var jrequire = require('./index.js');
 var fs = require('fs');
 
 // write a module
 fs.writeFileSync('someModule.js','module.exports = exports = 1;');
 
 // require the module
-var module = require2('./someModule.js');
+var module = jrequire('./someModule.js');
 
 console.log( 'old value: ' + module );
 // old value: 1
@@ -19,7 +19,7 @@ console.log( 'old value: ' + module );
 
 // rewrite and reload the module
 fs.writeFileSync('someModule.js','module.exports = exports = 2;');
-module = require2.reload('./someModule.js');
+module = jrequire.reload('./someModule.js');
 
 console.log( 'new value: ' + module );
 // new value: 2
@@ -29,10 +29,10 @@ Other functionalities
 ---
 ```js
 
-require2.resolve( module ); 	// same as require.resolve
+jrequire.resolve( module ); 	// same as require.resolve
 
-require2.isLoaded( module ); 
-require2.isLoadable( module ); 
+jrequire.isLoaded( module ); 
+jrequire.isLoadable( module ); 
 
 // pretty self-explanatory
 ```
