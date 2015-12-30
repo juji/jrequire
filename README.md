@@ -1,5 +1,9 @@
+
 Reload (and other) functionality to complement require module.
 
+Dinamic module reload in node.js
+
+Ability to reload a previously required module, and other stuff.
 
 Reload
 ---
